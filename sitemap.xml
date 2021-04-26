@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://boyinggong.github.io/research/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://boyinggong.github.io/teaching/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://boyinggong.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://boyinggong.github.io/</loc>
   </url>
   
 </urlset>

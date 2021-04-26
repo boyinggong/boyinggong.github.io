@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Researcher</title>
-    <link>https://example.com/</link>
-    <description>Recent content in About on Researcher</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>Boying Gong</title>
+    <link>https://boyinggong.github.io/</link>
+    <description>Recent content on Boying Gong</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://boyinggong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://example.com/about/</link>
+      <title></title>
+      <link>https://boyinggong.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>About Me  This is a Hugo based resume template. You can find the full source code on GitHub.
-Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
+      <guid>https://boyinggong.github.io/research/</guid>
+      <description>Publications Projects </description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <title></title>
+      <link>https://boyinggong.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
-      <description> Email: foo@xyz.com Phone: +91-123123   Mailing Address  221B, Baker Street
-London
-United Kingdom
-  Social  Facebook Twitter Google+  </description>
+      <guid>https://boyinggong.github.io/teaching/</guid>
+      <description>Teaching I developed the curriculum for a new course Statistical Methods for Data Science (STAT131A) with Professor Adityanand Guntuboyina and Professor Elizabeth Purdom in Fall 2016. STAT131A is an upper-division course offered by the Statistics Department at UC Berkeley. It covers a broad range of topics from parametric and non-parametric statistical tests to regression and classification models. I served as a graduate student instructor for the course in Spring 2017.</description>
+    </item>
+    
+    <item>
+      <title>Boying Gong</title>
+      <link>https://boyinggong.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://boyinggong.github.io/about/</guid>
+      <description>Bio  I am a Ph.D. candidate in biostatistics at UC Berkeley, advised by Professor Elizabeth Purdom.</description>
     </item>
     
   </channel>
